@@ -16,4 +16,5 @@
     <string name="edit">Editați</string>
     <string name="got_it">Am înțeles</string>
     <string name="app_hides">Aplicația se ascunde când este declanșată</string>
+    <string name="error_config">Nu s-a putut lansa aplicația</string>
 </resources>
