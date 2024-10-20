@@ -16,4 +16,5 @@
     <string name="only_a_test">Això només és una prova</string>
     <string name="error_config">No s\'ha pogut iniciar l\'aplicació</string>
     <string name="tap_to_trigger">Toqueu per activar una reacció</string>
+    <string name="got_it">Entesos</string>
 </resources>
