@@ -16,4 +16,5 @@
     <string name="got_it">گرفتم</string>
     <string name="app_hides">کاره هنگام شلیک مخفی می‌شود</string>
     <string name="panic_test_successful">عالی بود! در موقعیت واقعی، شلیکتان به تمامی کاره‌های پاسخ‌دهنده می‌رسید که با قفل شدن یا هر رفتار دیگری که پیکربندی کرده‌اید پاسخ می‌دادند.</string>
+    <string name="error_config">نتوانست کاره را اجرا کند</string>
 </resources>
