@@ -16,4 +16,5 @@
     <string name="action_trigger">Trigeris!</string>
     <string name="intro_instructions">Kai suveikia Ripple, jūsų pasirinktos programos reaguoja. Bakstelėkite REDAGUOTI, kad pamatytumėte ir pakeistumėte tos programėlės elgseną.</string>
     <string name="panic_test_successful">Puikiai! Tikrame scenarijuje jūsų trigeris būtų išplitęs į visas atsakiklio programas. Tada šios programos reaguotų užrakindamos arba naudodamos bet kokias kitas jūsų sukonfigūruotas elgsenos priemones.</string>
+    <string name="error_config">Nepavyko paleisti programėlės</string>
 </resources>
