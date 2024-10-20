@@ -16,4 +16,5 @@
     <string name="app_hides">Η εφαρμογή κρύβεται όταν συμβεί ενεργοποίηση</string>
     <string name="error_config">Δεν ήταν δυνατή η εκκίνηση της εφαρμογής</string>
     <string name="tap_anywhere_to_cancel">Πατήστε οπουδήποτε για ακύρωση</string>
+    <string name="edit">Επεξεργασία</string>
 </resources>
