@@ -16,4 +16,5 @@
     <string name="edit">Modifier</string>
     <string name="got_it">Compris</string>
     <string name="app_hides">L’appli se cache si elle est déclenchée</string>
+    <string name="error_config">Impossible de lancer l\'application</string>
 </resources>

@@ -16,4 +16,5 @@
     <string name="got_it">Verstanden</string>
     <string name="app_hides">App verbirgt sich beim Auslösen</string>
     <string name="panic_test_successful">Gut gemacht! In einem realen Szenario hätte sich der Auslöser auf alle Responder-Apps ausgewirkt. Und diese Apps würden dann mit Sperren oder irgendwelchen anderen voreingestellten Verhaltensweisen darauf antworten.</string>
+    <string name="error_config">App kann nicht gestartet werden</string>
 </resources>
